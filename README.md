@@ -4,8 +4,8 @@
 # Hi there 👋, I'm Sachin Shah
 
 
-**🎓 Computer Science student** with strong skills in **Java**, **C++** and a solid foundation in **Data Structures & Algorithms**, and **OOPs**.  
-**💻 Experienced in building web & mobile applications** with hands-on knowledge of **HTML**, **CSS**, **JavaScript**, and **SQL**.  
+**🎓 Computer Science student** with strong skills in **Java**, **C++** and a solid foundation in **DSA**, and **OOPs**.  
+**💻 Experienced in building web applications** with hands-on knowledge of **HTML**, **CSS**, **JavaScript**, and **MYSQL**.  
 **🔧 Familiar with SDLC, Git/GitHub, and problem-solving** in real-world scenarios.  
 **🚀 Eager to contribute as a Software Developer.**
 
