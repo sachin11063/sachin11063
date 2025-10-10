@@ -24,24 +24,7 @@
 
 ### 🧩 DSA Analytics (Codolio)
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="90" style="border-radius:50%; box-shadow:0 0 15px #00BFFF;" alt="Codolio Logo"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Total%20Questions&message=1125&color=007ACC&style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=Active%20Days&message=418&color=8A2BE2&style=for-the-badge&logo=calendar&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=Current%20Streak🔥&message=385%20Days&color=F75C7E&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Consistency&message=384--Day%20Streak&color=blueviolet&style=for-the-badge&logo=firefox" />
-  <img src="https://img.shields.io/static/v1?label=Coding%20Heatmap&message=🔥%20Ongoing&color=1a1b27&style=for-the-badge" />
-</p>
-
-<p align="center">
-  🔗 <a href="https://codolio.com/profile/07_sachin" target="_blank"><b>View Full Codolio Profile</b></a>
-</p>
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="90" style="border-radius:50%; box-shadow:0 0 15px #00BFFF;" alt="Codolio Logo"/> </p> <p align="center"> <img src="https://img.shields.io/static/v1?label=Total%20Questions&message=1125&color=007ACC&style=for-the-badge&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=Active%20Days&message=418&color=8A2BE2&style=for-the-badge&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=Current%20Streak🔥&message=385%20Days&color=F75C7E&style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/static/v1?label=Consistency&message=384--Day%20Streak&color=blueviolet&style=for-the-badge&logo=firefox" /> <img src="https://img.shields.io/static/v1?label=Coding%20Heatmap&message=🔥%20Ongoing&color=1a1b27&style=for-the-badge" /> </p> <p align="center"> 🔗 <a href="https://codolio.com/profile/07_sachin" target="_blank"><b>View Full Codolio Profile</b></a> </p>
 
 
 
