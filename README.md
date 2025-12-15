@@ -28,7 +28,6 @@
 - 🔍 Search, filter, add to cart, and purchase sweets seamlessly  
 - 📊 Clean dashboard with modern UI and smooth user experience  
 - ⚙️ Full-stack application with RESTful API integration  
-
 [View Project](https://github.com/sachin11063/Sweet-Shop-Management-System.git)
 
 ### 🔹 ReGen: Community Energy Sharing Platform
