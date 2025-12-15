@@ -1,7 +1,7 @@
 
 
 <!-- Header Section -->
-# Hi there 👋, I'm Sachin Shah
+# Hi there 👋, I'm Sachin
 
 
 **🎓 Computer Science student** with strong skills in **Java**, **C++** and a solid foundation in **DSA**, and **OOPs**.  
